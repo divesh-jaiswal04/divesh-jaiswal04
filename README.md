@@ -18,7 +18,7 @@ I am a passionate **freelancer** with expertise in **blockchain technologies**. 
 - Rust 🦀
 
 ## 📫 Reach Out
-Feel free to reach out to me via [email](mailto:diveshjaishwal1234@gmail.com) for any inquiries or collaborations.
+Feel free to reach out to me via [email](diveshjaishwal1234@gmail.com) for any inquiries or collaborations.
 
 ## 🔗 Let's Connect
 Connect with me on [LinkedIn](https://www.linkedin.com/in/diveshjaiswal7224/)!
