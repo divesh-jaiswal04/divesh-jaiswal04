@@ -1,10 +1,31 @@
-- 👋 Hi, I’m divesh jaiswal
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi there, I'm Divesh Jaiswal!
+
+## 💼 About Me
+I am a passionate **freelancer** with expertise in **blockchain technologies**. My journey in the realm of decentralized systems has equipped me with skills in **Ethereum 2.0**, **Solidity** smart contracts, **Solana**, **Web3**, **Hyperledger Fabric**, **Hyperledger Explorer**, **Hyperledger Indy**, **Node.js**, **JavaScript**, and **Rust**.
+
+## 🚀 Skills
+- Freelancer 💻
+- Blockchain ⛓️
+- Ethereum 2.0 🌐
+- Smart contract development (Solidity) 🔐
+- Solana 🌟
+- Web3 🌐
+- Hyperledger Fabric 🛠️
+- Hyperledger Explorer 🔍
+- Hyperledger Indy 🎩
+- Node.js 🚀
+- JavaScript 💡
+- Rust 🦀
+
+## 📫 Reach Out
+Feel free to reach out to me via [email](mailto:diveshjaishwal1234@gmail.com) for any inquiries or collaborations.
+
+## 🔗 Let's Connect
+Connect with me on [LinkedIn](https://www.linkedin.com/in/diveshjaiswal7224/)!
+
+
+Looking forward to collaborating with you! 😊
+
 
 <!---
 divesh-jaiswal04/divesh-jaiswal04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
