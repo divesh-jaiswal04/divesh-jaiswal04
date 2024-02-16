@@ -26,7 +26,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/diveshjaiswal7224/)!
 
 Looking forward to collaborating with you! 😊
 
-## Portfolio
+## 🌟 Portfolio
 Check out my portfolio [here](https://yourportfolio.com) to see some of my recent projects and contributions.
 
 <!---
