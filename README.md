@@ -27,7 +27,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/diveshjaiswal7224/)!
 Looking forward to collaborating with you! 😊
 
 ## 🌟 Portfolio
-Check out my portfolio [here](https://yourportfolio.com) to see some of my recent projects and contributions.
+Check out my portfolio [here](https://my-portfolio-ecru-three-19.vercel.app/) to see some of my recent projects and contributions.
 
 <!---
 divesh-jaiswal04/divesh-jaiswal04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
